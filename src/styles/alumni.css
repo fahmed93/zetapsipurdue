@@ -1,0 +1,15 @@
+.Page-header {
+  text-align: center;
+  color: #ffb300;
+}
+
+.header-img {
+  position: relative;
+  background-position: center;
+  height: 100vh;
+}
+
+.img {
+  height: auto;
+  max-width: 100%;
+}
